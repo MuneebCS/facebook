@@ -148,7 +148,7 @@ class _HomePageState extends State<HomePage>
                   ),
                   IconButton(
                     icon: Icon(Icons.photo_library),
-                    color: const Color.fromARGB(255, 46, 90, 47),
+                    color: Color.fromARGB(255, 112, 197, 113),
                     onPressed: () {
                       print('gallery');
                     },
@@ -168,12 +168,12 @@ class _HomePageState extends State<HomePage>
                     storyImage: 'assets/images/my9.jpg',
                   ),
                   MakeStory(
-                    text: 'Hassan Ahmad',
+                    text: 'Hassan Ali',
                     avatarImage: 'assets/images/my12.jpg',
                     storyImage: 'assets/images/my2.jpg',
                   ),
                   MakeStory(
-                    text: 'Ibraihm Raza',
+                    text: 'Ibraihm Shahvaiz',
                     avatarImage: 'assets/images/my7.jpg',
                     storyImage: 'assets/images/my10.jpg',
                   ),
